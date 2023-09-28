@@ -62,6 +62,7 @@ body {
 .home {
     padding: 0 10%;
     text-align: center;
+    background: url('https://www.freecodecamp.org/news/content/images/size/w2000/2022/09/jonatan-pie-3l3RwQdHRHg-unsplash.jpg') no-repeat;
 }
 
 .ring-img {
